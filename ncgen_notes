@@ -1,0 +1,3 @@
+ncgen x.cdl         # checks syntax
+ncgen -b x.cdl      # writes x.nc
+ncgen -o y.nc x.cdl # writes y.nc

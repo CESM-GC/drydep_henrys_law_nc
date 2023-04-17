@@ -1,0 +1,1699 @@
+GEOS-Chem benchmark run dry-deposited gas information  
+===============================================================================
+Name            : ACET
+FullName        : Acetone
+Formula         : CH3C(O)CH3
+MW_g            :    58.09
+Gas or aerosol  : GAS
+Henry_K0        :  2.740000E+01
+Henry_CR        :  5.500000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+05
+===============================================================================
+Name            : ACTA
+FullName        : Acetic acid
+Formula         : CH3C(O)OH
+MW_g            :    60.06
+Gas or aerosol  : GAS
+Henry_K0        :  4.050000E+03
+Henry_CR        :  6.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  4.100000E+03
+Is_WetDep       : T
+WetDepID        :        1
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ALD2
+FullName        : Acetaldehyde
+Formula         : CH3CHO
+MW_g            :    44.06
+Gas or aerosol  : GAS
+Henry_K0        :  1.320000E+01
+Henry_CR        :  5.900000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.100000E+01
+Is_WetDep       : T
+WetDepID        :        3
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ASOG1
+FullName        : Lumped non-volatile gas products of light aromatics + IVOCs
+Formula         : 
+MW_g            :   150.00
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+05
+Henry_CR        :  6.039000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+05
+Is_WetDep       : T
+WetDepID        :        8
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ASOG2
+FullName        : Lumped non-volatile gas products of light aromatics + IVOCs
+Formula         : 
+MW_g            :   150.00
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+05
+Henry_CR        :  6.039000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+05
+Is_WetDep       : T
+WetDepID        :        9
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ASOG3
+FullName        : Lumped non-volatile gas products of light aromatics + IVOCs
+Formula         : 
+MW_g            :   150.00
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+05
+Henry_CR        :  6.039000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+05
+Is_WetDep       : T
+WetDepID        :       10
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : AROMP4
+FullName        : Generic C4 product of aromatics
+Formula         : C4H4O2
+MW_g            :    68.08
+Gas or aerosol  : GAS
+Henry_K0        :  4.100000E+05
+Henry_CR        :  7.500000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  4.100000E+05
+Is_WetDep       : T
+WetDepID        :       12
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : AROMP5
+FullName        : C5 unsaturated dicarbonyl
+Formula         : C5H6O2
+MW_g            :    98.10
+Gas or aerosol  : GAS
+Henry_K0        :  2.000000E+06
+Henry_CR        :  7.500000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       13
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ATOOH
+FullName        : ATO2 peroxide
+Formula         : CH3C(O)CH2OOH
+MW_g            :    90.09
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :       14
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : BALD
+FullName        : Benzaldehyde
+Formula         : C7H6O
+MW_g            :   106.12
+Gas or aerosol  : GAS
+Henry_K0        :  3.800000E+01
+Henry_CR        :  5.500000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  3.800000E+01
+Is_WetDep       : T
+WetDepID        :       15
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : BENZP
+FullName        : Phenyl hydroperoxide
+Formula         : C6H6O2
+MW_g            :   110.11
+Gas or aerosol  : GAS
+Henry_K0        :  2.900000E+03
+Henry_CR        :  6.800000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.900000E+03
+Is_WetDep       : T
+WetDepID        :       18
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : Br2
+FullName        : Molecular Bromine
+Formula         : Br2
+MW_g            :   159.80
+Gas or aerosol  : GAS
+Henry_K0        :  7.600000E-01
+Henry_CR        :  3.720000E+03
+Is_DryDep       : T
+DD_Hstar        :  7.600000E-01
+Is_WetDep       : T
+WetDepID        :       19
+===============================================================================
+Name            : BrCl
+FullName        : Bromine chloride
+Formula         : BrCl
+MW_g            :   115.45
+Gas or aerosol  : GAS
+Henry_K0        :  9.700000E-01
+Henry_CR        :  5.600000E+03
+Is_DryDep       : T
+DD_Hstar        :  9.700000E-01
+Is_WetDep       : T
+WetDepID        :       20
+===============================================================================
+Name            : BrNO3
+FullName        : Bromine nitrate
+Formula         : BrNO3
+MW_g            :   141.91
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+20
+===============================================================================
+Name            : BZCO3H
+FullName        : Perbenzoic acid
+Formula         : C6H5CO3H
+MW_g            :   138.12
+Gas or aerosol  : GAS
+Henry_K0        :  2.400000E+04
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.400000E+04
+Is_WetDep       : T
+WetDepID        :       23
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : BZPAN
+FullName        : Peroxybenzoylnitrate
+Formula         : C7H5O5N
+MW_g            :   183.12
+Gas or aerosol  : GAS
+Henry_K0        :  7.000000E+01
+Henry_CR        :  4.600000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  7.000000E+01
+Is_WetDep       : T
+WetDepID        :       24
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : CH2O
+FullName        : Formaldehyde
+Formula         : CH2O
+MW_g            :    30.03
+Gas or aerosol  : GAS
+Henry_K0        :  3.240000E+03
+Henry_CR        :  6.800000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  3.000000E+03
+Is_WetDep       : T
+WetDepID        :       25
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : Cl2
+FullName        : Molecular chlorine
+Formula         : Cl2
+MW_g            :    70.90
+Gas or aerosol  : GAS
+Henry_K0        :  9.200000E-02
+Henry_CR        :  2.000000E+03
+Is_DryDep       : T
+DD_Hstar        :  9.200000E-02
+===============================================================================
+Name            : ClNO2
+FullName        : Nitryl chloride
+Formula         : ClNO2
+MW_g            :    81.45
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  4.500000E-02
+===============================================================================
+Name            : ClNO3
+FullName        : Chlorine nitrate
+Formula         : ClNO3
+MW_g            :    97.45
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+20
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+20
+===============================================================================
+Name            : ClO
+FullName        : Chlorine monoxide
+Formula         : ClO
+MW_g            :    51.45
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  7.000000E-01
+===============================================================================
+Name            : ClOO
+FullName        : Chlorine dioxide
+Formula         : ClOO
+MW_g            :    67.45
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+00
+Henry_CR        :  3.500000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+00
+===============================================================================
+Name            : CSL
+FullName        : Cresols
+Formula         : C7H8O
+MW_g            :   108.14
+Gas or aerosol  : GAS
+Henry_K0        :  4.200000E+02
+Henry_CR        :  8.500000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  4.200000E+02
+Is_WetDep       : T
+WetDepID        :       26
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : EOH
+FullName        : Ethanol
+Formula         : C2H5OH
+MW_g            :    46.07
+Gas or aerosol  : GAS
+Henry_K0        :  1.930000E+02
+Henry_CR        :  6.400000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.900000E+02
+Is_WetDep       : T
+WetDepID        :       31
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ETHLN
+FullName        : Ethanol nitrate
+Formula         : CHOCH2ONO2
+MW_g            :   105.06
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       32
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ETHN
+FullName        : hydroxy-nitrooxy-ethane
+Formula         : HOCH2CH2ONO2
+MW_g            :   107.07
+Gas or aerosol  : GAS
+Henry_K0        :  3.900000E+04
+Henry_CR        :  8.600000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E-01
+DD_Hstar        :  3.900000E+04
+Is_WetDep       : T
+WetDepID        :       33
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ETHP
+FullName        : hydroxy-hydroperoxy-ethane
+Formula         : HOCH2CH2OOH
+MW_g            :    78.07
+Gas or aerosol  : GAS
+Henry_K0        :  6.500000E+05
+Henry_CR        :  8.800000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E-01
+DD_Hstar        :  6.500000E+05
+Is_WetDep       : T
+WetDepID        :       34
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ETNO3
+FullName        : Ethyl nitrate
+Formula         : C2H5ONO2
+MW_g            :    91.08
+Gas or aerosol  : GAS
+Henry_K0        :  1.600000E+00
+Henry_CR        :  5.400000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E-01
+DD_Hstar        :  1.600000E+00
+===============================================================================
+Name            : ETP
+FullName        : Ethylhydroperoxide
+Formula         : CH3CH2OOH
+MW_g            :    62.08
+Gas or aerosol  : GAS
+Henry_K0        :  3.340000E+02
+Henry_CR        :  6.000000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :       35
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : GLYC
+FullName        : Glycoaldehyde
+Formula         : HOCH2CHO
+MW_g            :    60.06
+Gas or aerosol  : GAS
+Henry_K0        :  4.150000E+04
+Henry_CR        :  4.600000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  4.100000E+04
+Is_WetDep       : T
+WetDepID        :       36
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : GLYX
+FullName        : Glyoxal
+Formula         : CHOCHO
+MW_g            :    58.04
+Gas or aerosol  : GAS
+Henry_K0        :  4.150000E+05
+Henry_CR        :  7.500000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  3.600000E+05
+Is_WetDep       : T
+WetDepID        :       37
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : H2O2
+FullName        : Hydrogen peroxide
+Formula         : H2O2
+MW_g            :    34.02
+Gas or aerosol  : GAS
+Henry_K0        :  8.300000E+04
+Henry_CR        :  7.400000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  5.000000E+07
+Is_WetDep       : T
+WetDepID        :       38
+WD_LiqAndGas    : T
+WD_ConvFacI2G   :  4.365640E-01
+WD_RetFactor    :     0.05
+===============================================================================
+Name            : HAC
+FullName        : Hydroxyacetone
+Formula         : HOCH2C(O)CH3
+MW_g            :    74.08
+Gas or aerosol  : GAS
+Henry_K0        :  7.800000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.400000E+06
+Is_WetDep       : T
+WetDepID        :       39
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : HBr
+FullName        : Hypobromic acid
+Formula         : HBr
+MW_g            :    80.91
+Gas or aerosol  : GAS
+Henry_K0        :  7.100000E+13
+Henry_CR        :  1.020000E+04
+Is_DryDep       : T
+DD_Hstar        :  7.100000E+15
+Is_WetDep       : T
+WetDepID        :       40
+WD_RetFactor    :     1.00
+===============================================================================
+Name            : HC5A
+FullName        : isoprene-4,1-hydroxyaldehyde
+Formula         : C5H8O2
+MW_g            :   100.13
+Gas or aerosol  : GAS
+Henry_K0        :  7.800000E+03
+Is_DryDep       : T
+DD_Hstar        :  7.800000E+03
+Is_WetDep       : T
+WetDepID        :       41
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : HCl
+FullName        : Hydrochloric acid
+Formula         : HCl
+MW_g            :    36.45
+Gas or aerosol  : GAS
+Henry_K0        :  6.300000E+10
+Henry_CR        :  9.000000E+03
+Is_DryDep       : T
+DD_Hstar        :  2.000000E+13
+Is_WetDep       : T
+WetDepID        :       42
+WD_RetFactor    :     1.00
+===============================================================================
+Name            : HCOOH
+FullName        : Formic acid
+Formula         : HCOOH
+MW_g            :    46.03
+Gas or aerosol  : GAS
+Henry_K0        :  8.920000E+03
+Henry_CR        :  6.100000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  8.900000E+03
+Is_WetDep       : T
+WetDepID        :       43
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : HI
+FullName        : Hydrogen iodide
+Formula         : HI
+MW_g            :   127.91
+Gas or aerosol  : GAS
+Henry_K0        :  7.430000E+13
+Henry_CR        :  3.187200E+03
+Is_DryDep       : T
+DD_Hstar        :  2.350000E+16
+Is_WetDep       : T
+WetDepID        :       44
+WD_RetFactor    :     1.00
+===============================================================================
+Name            : HMHP
+FullName        : Hydroxymethyl hydroperoxide
+Formula         : HOCH2OOH
+MW_g            :    64.05
+Gas or aerosol  : GAS
+Henry_K0        :  1.300000E+06
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.300000E+06
+Is_WetDep       : T
+WetDepID        :       45
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : HMML
+FullName        : hydroxymethyl-methyl-a-lactone
+Formula         : C4H6O3
+MW_g            :   102.10
+Gas or aerosol  : GAS
+Henry_K0        :  1.200000E+05
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.200000E+05
+Is_WetDep       : T
+WetDepID        :       46
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : HNO3
+FullName        : Nitric acid
+Formula         : HNO3
+MW_g            :    63.01
+Gas or aerosol  : GAS
+Henry_K0        :  8.300000E+04
+Henry_CR        :  7.400000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+14
+Is_DryAlt       : T
+Is_WetDep       : T
+WetDepID        :       48
+WD_AerScavEff   :  1.000000E+00
+WD_KcScaleFac   :     1.00     1.00     1.00
+WD_RainoutEff   :     1.00     1.00     1.00
+WD_Is_HNO3      : T
+===============================================================================
+Name            : HOBr
+FullName        : Hypobromous acid
+Formula         : HOBr
+MW_g            :    96.91
+Gas or aerosol  : GAS
+Henry_K0        :  1.300000E+03
+Henry_CR        :  4.000000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.300000E+03
+Is_WetDep       : T
+WetDepID        :       49
+===============================================================================
+Name            : HOCl
+FullName        : Hypochlorous acid
+Formula         : HOCl
+MW_g            :    52.45
+Gas or aerosol  : GAS
+Henry_K0        :  6.500000E+02
+Henry_CR        :  5.900000E+03
+Is_DryDep       : T
+DD_Hstar        :  6.500000E+02
+Is_WetDep       : T
+WetDepID        :       50
+===============================================================================
+Name            : HOI
+FullName        : Hypoiodous acid
+Formula         : HOI
+MW_g            :   143.89
+Gas or aerosol  : GAS
+Henry_K0        :  1.540000E+04
+Henry_CR        :  8.371000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.540000E+04
+Is_WetDep       : T
+WetDepID        :       51
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : HONIT
+FullName        : 2nd gen monoterpene organic nitrate
+Formula         : 
+MW_g            :   215.00
+Gas or aerosol  : GAS
+Henry_K0        :  2.690000E+13
+Henry_CR        :  5.487000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       52
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : HPALD1
+FullName        : d-4,1-C5-hydroperoxyaldehyde
+Formula         : C5H8O3
+MW_g            :   116.13
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  4.000000E+04
+===============================================================================
+Name            : HPALD2
+FullName        : d-1,4-C5-hydroperoxyaldehyde
+Formula         : C5H8O3
+MW_g            :   116.13
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  4.000000E+04
+===============================================================================
+Name            : HPALD3
+FullName        : b-2,1-C5-hydroperoxyaldehyde
+Formula         : C5H8O3
+MW_g            :   116.13
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  4.000000E+04
+===============================================================================
+Name            : HPALD4
+FullName        : b-3,4-C5-hydroperoxyaldehyde
+Formula         : C5H8O3
+MW_g            :   116.13
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  4.000000E+04
+===============================================================================
+Name            : HPETHNL
+FullName        : Hydroperoxy ethanal
+Formula         : HOOCH2CHO
+MW_g            :    76.06
+Gas or aerosol  : GAS
+Henry_K0        :  4.100000E+04
+Henry_CR        :  4.600000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  4.100000E+04
+Is_WetDep       : T
+WetDepID        :       53
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : I2
+FullName        : Molecular iodine
+Formula         : I2
+MW_g            :   253.80
+Gas or aerosol  : GAS
+Henry_K0        :  2.700000E+00
+Henry_CR        :  7.507400E+03
+Is_DryDep       : T
+DD_Hstar        :  2.700000E+00
+Is_WetDep       : T
+WetDepID        :       54
+===============================================================================
+Name            : I2O2
+FullName        : Diiodine dioxide
+Formula         : I2O2
+MW_g            :   285.80
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+20
+Henry_CR        :  1.890000E+04
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+20
+Is_WetDep       : T
+WetDepID        :       55
+WD_RetFactor    :     1.00
+===============================================================================
+Name            : I2O3
+FullName        : Diiodine trioxide
+Formula         : I2O3
+MW_g            :   301.80
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+20
+Henry_CR        :  1.340000E+04
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+20
+Is_WetDep       : T
+WetDepID        :       56
+WD_RetFactor    :     1.00
+===============================================================================
+Name            : I2O4
+FullName        : Diiodine tetraoxide
+Formula         : I2O4
+MW_g            :   317.80
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+20
+Henry_CR        :  1.340000E+04
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+20
+Is_WetDep       : T
+WetDepID        :       57
+WD_RetFactor    :     1.00
+===============================================================================
+Name            : IBr
+FullName        : Iodine monobromide
+Formula         : IBr
+MW_g            :   206.90
+Gas or aerosol  : GAS
+Henry_K0        :  2.400000E+01
+Henry_CR        :  4.916700E+03
+Is_DryDep       : T
+DD_Hstar        :  2.430000E+01
+Is_WetDep       : T
+WetDepID        :       58
+===============================================================================
+Name            : ICHE
+FullName        : Isoprene hydroxy-carbonyl-epoxides
+Formula         : C5H8O3
+MW_g            :   116.13
+Gas or aerosol  : GAS
+Henry_K0        :  8.000000E+07
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  8.000000E+07
+Is_WetDep       : T
+WetDepID        :       59
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ICl
+FullName        : Iodine monochloride
+Formula         : ICl
+MW_g            :   162.45
+Gas or aerosol  : GAS
+Henry_K0        :  1.110000E+02
+Henry_CR        :  2.105500E+03
+Is_DryDep       : T
+DD_Hstar        :  1.110000E+02
+Is_WetDep       : T
+WetDepID        :       60
+===============================================================================
+Name            : ICN
+FullName        : Lumped isoprene carbonyl-nitrates
+Formula         : C5H7NO4
+MW_g            :   145.13
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       61
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ICPDH
+FullName        : Isoprene dihydroxy hydroperoxycarbonyl
+Formula         : C5H10O5
+MW_g            :   150.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+08
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+08
+Is_WetDep       : T
+WetDepID        :       62
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IDC
+FullName        : Lumped isoprene dicarbonyls
+Formula         : C5H6O2
+MW_g            :    98.11
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  4.000000E+04
+===============================================================================
+Name            : IDCHP
+FullName        : Isoprene dicarbonyl hydroxy dihydroperoxide
+Formula         : C5H8O5
+MW_g            :   148.13
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+08
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+08
+Is_WetDep       : T
+WetDepID        :       63
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IDHDP
+FullName        : Isoprene dihydroxy dihydroperoxide
+Formula         : C5H12O6
+MW_g            :   168.17
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+08
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+08
+Is_WetDep       : T
+WetDepID        :       64
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IDHPE
+FullName        : Isoprene dihydroxy hydroperoxy epoxide
+Formula         : C5H10O5
+MW_g            :   150.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+08
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+08
+Is_WetDep       : T
+WetDepID        :       65
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IDN
+FullName        : Lumped isoprene dinitrates
+Formula         : C5H8N2O6
+MW_g            :   192.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+08
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+08
+Is_WetDep       : T
+WetDepID        :       66
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IEPOXA
+FullName        : trans-Beta isoprene epoxydiol
+Formula         : C4H10O3
+MW_g            :   106.14
+Gas or aerosol  : GAS
+Henry_K0        :  8.000000E+07
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  8.000000E+07
+Is_WetDep       : T
+WetDepID        :       67
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IEPOXB
+FullName        : cis-Beta isoprene epoxydiol
+Formula         : C4H10O3
+MW_g            :   106.14
+Gas or aerosol  : GAS
+Henry_K0        :  8.000000E+07
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  8.000000E+07
+Is_WetDep       : T
+WetDepID        :       68
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IEPOXD
+FullName        : Delta isoprene epoxydiol
+Formula         : C4H10O3
+MW_g            :   106.14
+Gas or aerosol  : GAS
+Henry_K0        :  8.000000E+07
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  8.000000E+07
+Is_WetDep       : T
+WetDepID        :       69
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IHN1
+FullName        : Isoprene-d-4,1-hydroxynitrate
+Formula         : C5H9NO4
+MW_g            :   147.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       70
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IHN2
+FullName        : Isoprene-b-1,2-hydroxynitrate
+Formula         : C5H9NO4
+MW_g            :   147.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       71
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IHN3
+FullName        : Isoprene-b-4,3-hydroxynitrate
+Formula         : C5H9NO4
+MW_g            :   147.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       72
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IHN4
+FullName        : Isoprene-d-4,1-hydroxynitrate
+Formula         : C5H9NO4
+MW_g            :   147.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       73
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : INPB
+FullName        : Lumped b-hydroperoxy isoprene nitrates
+Formula         : C5H9NO5
+MW_g            :   163.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       75
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : INPD
+FullName        : Lumped d-hydroperoxy isoprene nitrates
+Formula         : C5H9NO5
+MW_g            :   163.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       76
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IONO
+FullName        : Nitryl iodide
+Formula         : IONO
+MW_g            :   172.91
+Gas or aerosol  : GAS
+Henry_K0        :  3.000000E-01
+Henry_CR        :  7.240400E+03
+Is_DryDep       : T
+DD_Hstar        :  3.000000E-01
+Is_WetDep       : T
+WetDepID        :       78
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : IONO2
+FullName        : Iodine nitrate
+Formula         : IONO2
+MW_g            :   188.91
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+20
+Henry_CR        :  3.980000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+20
+Is_WetDep       : T
+WetDepID        :       79
+WD_RetFactor    :     1.00
+===============================================================================
+Name            : IPRNO3
+FullName        : Isopropyl nitrate
+Formula         : C3H7ONO2
+MW_g            :   105.11
+Gas or aerosol  : GAS
+Henry_K0        :  7.900000E-01
+Henry_CR        :  5.400000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E-01
+DD_Hstar        :  7.900000E-01
+===============================================================================
+Name            : ITCN
+FullName        : lumped isoprene tetrafunctional carbonylnitrates
+Formula         : C5H9NO7
+MW_g            :   195.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+08
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+08
+Is_WetDep       : T
+WetDepID        :       82
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : ITHN
+FullName        : Lumped isoprene tetrafunctional hydroxynitrates
+Formula         : C5H11NO7
+MW_g            :   197.17
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+08
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+08
+Is_WetDep       : T
+WetDepID        :       83
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : LIMO
+FullName        : Limonene
+Formula         : C10H16
+MW_g            :   136.26
+Gas or aerosol  : GAS
+Henry_K0        :  7.000000E-02
+Is_DryDep       : T
+DD_Hstar        :  7.000000E-02
+Is_WetDep       : T
+WetDepID        :       84
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : LVOC
+FullName        : Gas-phase low-volatility non-IEPOX product of RIP ox
+Formula         : C5H14O5
+MW_g            :   154.19
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+08
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E+08
+Is_WetDep       : T
+WetDepID        :       85
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MACR
+FullName        : Methacrolein
+Formula         : CH2=C(CH3)CHO
+MW_g            :    70.10
+Gas or aerosol  : GAS
+Henry_K0        :  4.860000E+00
+Henry_CR        :  4.300000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  6.500000E+00
+===============================================================================
+Name            : MACR1OOH
+FullName        : Peracid from MACR
+Formula         : CH2=C(CH3)C(O)OOH
+MW_g            :   102.10
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :       87
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MAP
+FullName        : Peroxyacetic acid
+Formula         : CH3C(O)OOH
+MW_g            :    76.06
+Gas or aerosol  : GAS
+Henry_K0        :  8.400000E+02
+Henry_CR        :  5.300000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  8.400000E+02
+Is_WetDep       : T
+WetDepID        :       88
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MCRDH
+FullName        : Dihydroxy-methacrolein
+Formula         : C4H8O3
+MW_g            :   104.12
+Gas or aerosol  : GAS
+Henry_K0        :  1.400000E+06
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.400000E+06
+Is_WetDep       : T
+WetDepID        :       89
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MCRENOL
+FullName        : Lumped enols from MVK/MACR
+Formula         : C4H6O2
+MW_g            :    86.10
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :       90
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MCRHN
+FullName        : Nitrate from MACR
+Formula         : HOCH2C(ONO2)(CH3)CHO
+MW_g            :   149.11
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       91
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MCRHNB
+FullName        : Nitrate from MACR
+Formula         : O2NOCH2C(OH)(CH3)CHO
+MW_g            :   149.11
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       92
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MCRHP
+FullName        : Hydroxy-hydroperoxy-methacrolein
+Formula         : HOCH2C(OOH)(CH3)CHO
+MW_g            :   120.12
+Gas or aerosol  : GAS
+Henry_K0        :  1.400000E+06
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.400000E+06
+Is_WetDep       : T
+WetDepID        :       93
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MCT
+FullName        : Catechols and methyl catechols
+Formula         : C7H8O2
+MW_g            :   124.00
+Gas or aerosol  : GAS
+Henry_K0        :  4.200000E+02
+Henry_CR        :  8.500000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  4.200000E+02
+Is_WetDep       : T
+WetDepID        :       94
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MENO3
+FullName        : Methyl nitrate
+Formula         : CH3ONO2
+MW_g            :    77.05
+Gas or aerosol  : GAS
+Henry_K0        :  1.100000E+01
+Henry_CR        :  4.700000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E-01
+DD_Hstar        :  2.000000E+00
+===============================================================================
+Name            : MGLY
+FullName        : Methylglyoxal
+Formula         : CH3COCHO
+MW_g            :    72.07
+Gas or aerosol  : GAS
+Henry_K0        :  3.240000E+04
+Henry_CR        :  6.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  3.700000E+03
+Is_WetDep       : T
+WetDepID        :       96
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MOH
+FullName        : Methanol
+Formula         : CH3OH
+MW_g            :    32.05
+Gas or aerosol  : GAS
+Henry_K0        :  2.030000E+02
+Henry_CR        :  5.600000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.030000E+02
+Is_WetDep       : T
+WetDepID        :       97
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MONITS
+FullName        : Saturated 1st gen monoterpene organic nitrate
+Formula         : C10H17NO4
+MW_g            :   215.28
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :       99
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MONITU
+FullName        : Unsaturated 1st gen monoterpene organic nitrate
+Formula         : C10H17NO4
+MW_g            :   215.28
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :      100
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MPAN
+FullName        : Peroxymethacroyl nitrate (PMN)
+Formula         : CH2=C(CH3)C(O)OONO2
+MW_g            :   147.10
+Gas or aerosol  : GAS
+Henry_K0        :  1.720000E+00
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.720000E+00
+Is_WetDep       : T
+WetDepID        :      102
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MTPA
+FullName        : a-pinene, b-pinene, sabinene, carene
+Formula         : 
+MW_g            :   136.26
+Gas or aerosol  : GAS
+Henry_K0        :  4.900000E-02
+Is_DryDep       : T
+DD_Hstar        :  4.900000E-02
+Is_WetDep       : T
+WetDepID        :      105
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MTPO
+FullName        : Terpinene, terpinolene, myrcene, ocimene, other monoterpenes
+Formula         : 
+MW_g            :   136.26
+Gas or aerosol  : GAS
+Henry_K0        :  4.900000E-02
+Is_DryDep       : T
+DD_Hstar        :  4.900000E-02
+Is_WetDep       : T
+WetDepID        :      106
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MVK
+FullName        : Methyl vinyl ketone
+Formula         : CH2=CHC(=O)CH3
+MW_g            :    70.09
+Gas or aerosol  : GAS
+Henry_K0        :  2.630000E+01
+Henry_CR        :  4.800000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  4.400000E+01
+Is_WetDep       : T
+WetDepID        :      107
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MVKDH
+FullName        : dihydroxy-MVK
+Formula         : HOCH2CH2OHC(O)CH3
+MW_g            :   105.13
+Gas or aerosol  : GAS
+Henry_K0        :  1.400000E+06
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.400000E+06
+Is_WetDep       : T
+WetDepID        :      108
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MVKHC
+FullName        : MVK hydroxy-carbonyl
+Formula         : C4H6O3
+MW_g            :   102.10
+Gas or aerosol  : GAS
+Henry_K0        :  1.400000E+06
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.400000E+06
+Is_WetDep       : T
+WetDepID        :      109
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MVKHCB
+FullName        : MVK hydroxy-carbonyl
+Formula         : C4H6O3
+MW_g            :   102.10
+Gas or aerosol  : GAS
+Henry_K0        :  1.400000E+06
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.400000E+06
+Is_WetDep       : T
+WetDepID        :      110
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MVKHP
+FullName        : MVK hydroxy-hydroperoxide
+Formula         : C4H8O4
+MW_g            :   120.12
+Gas or aerosol  : GAS
+Henry_K0        :  1.400000E+06
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.400000E+06
+Is_WetDep       : T
+WetDepID        :      111
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MVKN
+FullName        : Nitrate from MVK
+Formula         : HOCH2CH(ONO2)C(=O)CH3
+MW_g            :   149.12
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+04
+Henry_CR        :  9.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.000000E+06
+Is_WetDep       : T
+WetDepID        :      112
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : MVKPC
+FullName        : MVK hydroperoxy-carbonyl
+Formula         : OCHCH(OOH)C(O)CH3
+MW_g            :   118.10
+Gas or aerosol  : GAS
+Henry_K0        :  1.400000E+06
+Henry_CR        :  7.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.400000E+06
+Is_WetDep       : T
+WetDepID        :      113
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : N2O5
+FullName        : Dinitrogen pentoxide
+Formula         : N2O5
+MW_g            :   108.02
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+14
+===============================================================================
+Name            : NH3
+FullName        : Ammonia
+Formula         : NH3
+MW_g            :    17.04
+Gas or aerosol  : GAS
+Henry_K0        :  3.300000E+06
+Henry_CR        :  4.100000E+03
+Is_DryDep       : T
+DD_DvzMinVal    :     0.20     0.30
+DD_Hstar        :  2.000000E+04
+Is_WetDep       : T
+WetDepID        :      114
+WD_LiqAndGas    : T
+WD_ConvFacI2G   :  6.173950E-01
+WD_RetFactor    :     0.05
+===============================================================================
+Name            : NO2
+FullName        : Nitrogen dioxide
+Formula         : NO2
+MW_g            :    46.01
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_F0           :  1.000000E-01
+DD_Hstar        :  1.000000E-02
+===============================================================================
+Name            : NPHEN
+FullName        : Nitrophenols
+Formula         : C6H5NO3
+MW_g            :   139.11
+Gas or aerosol  : GAS
+Henry_K0        :  2.300000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.300000E+03
+Is_WetDep       : T
+WetDepID        :      118
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : NPRNO3
+FullName        : n-propyl nitrate
+Formula         : C3H7ONO2
+MW_g            :   105.11
+Gas or aerosol  : GAS
+Henry_K0        :  1.100000E+00
+Henry_CR        :  5.500000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E-01
+DD_Hstar        :  1.100000E+00
+===============================================================================
+Name            : O3
+FullName        : Ozone
+Formula         : O3
+MW_g            :    48.00
+Gas or aerosol  : GAS
+Henry_K0        :  1.013250E-02
+Henry_CR        :  2.800000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.000000E-02
+Is_DryAlt       : T
+===============================================================================
+Name            : PAN
+FullName        : Peroxyacetyl nitrate
+Formula         : CH3C(O)OONO2
+MW_g            :   121.06
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+00
+Henry_CR        :  5.700000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  3.600000E+00
+Is_WetDep       : T
+WetDepID        :      121
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : PHEN
+FullName        : Phenol
+Formula         : C6H6O
+MW_g            :    94.11
+Gas or aerosol  : GAS
+Henry_K0        :  2.800000E+03
+Henry_CR        :  2.700000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.800000E+03
+Is_WetDep       : T
+WetDepID        :      123
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : PP
+FullName        : Peroxide from PO2
+Formula         : HOCH2CH(OOH)CH3
+MW_g            :    92.11
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :      124
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : PPN
+FullName        : Lumped peroxypropionyl nitrate
+Formula         : CH3CH2C(O)OONO2
+MW_g            :   135.08
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+00
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  3.600000E+00
+Is_WetDep       : T
+WetDepID        :      125
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : PROPNN
+FullName        : Propanone nitrate
+Formula         : CH3C(=O)CH2ONO2
+MW_g            :   119.08
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  5.000000E+05
+Is_WetDep       : T
+WetDepID        :      126
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : PRPN
+FullName        : Peroxide from PRN1
+Formula         : O2NOCH2CH(OOH)CH3
+MW_g            :   137.11
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :      128
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : PYAC
+FullName        : Pyruvic acid
+Formula         : C3H4O3
+MW_g            :    88.07
+Gas or aerosol  : GAS
+Henry_K0        :  3.140000E+05
+Henry_CR        :  5.100000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  3.140000E+05
+Is_WetDep       : T
+WetDepID        :      129
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : R4N2
+FullName        : Lumped alkyl nitrate
+Formula         : RO2NO
+MW_g            :   119.10
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+00
+Henry_CR        :  5.800000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.700000E+04
+Is_WetDep       : T
+WetDepID        :      130
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : R4P
+FullName        : Peroxide from R4O2
+Formula         : CH3CH2CH2CH2OOH
+MW_g            :    90.14
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :      131
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : RA3P
+FullName        : Peroxide from A3O2
+Formula         : CH3CH2CH2OOH
+MW_g            :    76.11
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :      132
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : RB3P
+FullName        : Peroxide from B3O2
+Formula         : CH3CH(OOH)CH3
+MW_g            :    76.11
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :      133
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : RIPA
+FullName        : 1,2-ISOPOOH
+Formula         : C5H10O3
+MW_g            :   118.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+06
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.700000E+06
+Is_WetDep       : T
+WetDepID        :      134
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : RIPB
+FullName        : 4,3-ISOPOOH
+Formula         : C5H10O3
+MW_g            :   118.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+06
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.700000E+06
+Is_WetDep       : T
+WetDepID        :      135
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : RIPC
+FullName        : d-1,4-ISOPOOH
+Formula         : C5H10O3
+MW_g            :   118.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+06
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.700000E+06
+Is_WetDep       : T
+WetDepID        :      136
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : RIPD
+FullName        : d-4,1-ISOPOOH
+Formula         : C5H10O3
+MW_g            :   118.15
+Gas or aerosol  : GAS
+Henry_K0        :  1.700000E+06
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  1.700000E+06
+Is_WetDep       : T
+WetDepID        :      137
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : RP
+FullName        : Peroxide from RCO3
+Formula         : CH3CH2C(O)OOH
+MW_g            :    90.09
+Gas or aerosol  : GAS
+Henry_K0        :  2.940000E+02
+Henry_CR        :  5.200000E+03
+Is_DryDep       : T
+DD_F0           :  1.000000E+00
+DD_Hstar        :  2.940000E+02
+Is_WetDep       : T
+WetDepID        :      138
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : SO2
+FullName        : Sulfur dioxide
+Formula         : SO2
+MW_g            :    64.04
+Gas or aerosol  : GAS
+Is_DryDep       : T
+DD_DvzMinVal    :     0.20     0.30
+DD_Hstar        :  1.000000E+05
+Is_WetDep       : T
+WetDepID        :      145
+WD_AerScavEff   :  1.000000E+00
+WD_KcScaleFac   :     1.00     0.50     1.00
+WD_RainoutEff   :     1.00     0.00     1.00
+WD_Is_SO2       : T
+===============================================================================
+Name            : TSOG0
+FullName        : Lumped semivolatile gas products of monoterpene + sesquiterpene oxidation
+Formula         : 
+MW_g            :   150.00
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+05
+Henry_CR        :  6.039000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+05
+Is_WetDep       : T
+WetDepID        :      155
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : TSOG1
+FullName        : Lumped semivolatile gas products of monoterpene + sesquiterpene oxidation
+Formula         : 
+MW_g            :   150.00
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+05
+Henry_CR        :  6.039000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+05
+Is_WetDep       : T
+WetDepID        :      156
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : TSOG2
+FullName        : Lumped semivolatile gas products of monoterpene + sesquiterpene oxidation
+Formula         : 
+MW_g            :   150.00
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+05
+Henry_CR        :  6.039000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+05
+Is_WetDep       : T
+WetDepID        :      157
+WD_RetFactor    :     0.02
+===============================================================================
+Name            : TSOG3
+FullName        : Lumped semivolatile gas products of monoterpene + sesquiterpene oxidation
+Formula         : 
+MW_g            :   150.00
+Gas or aerosol  : GAS
+Henry_K0        :  1.000000E+05
+Henry_CR        :  6.039000E+03
+Is_DryDep       : T
+DD_Hstar        :  1.000000E+05
+Is_WetDep       : T
+WetDepID        :      158
+WD_RetFactor    :     0.02
+

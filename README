@@ -1,0 +1,14 @@
+drydep_tables.cdl was provided by Francis Vitt. It was used to generate the netcdf file used with
+CAM-Chem for inputting Henry's Law coefficients for use in dry deposition. I created a version for
+use with GEOS-Chem. Set the path for namelist variable 'dep_data_file' in user_nl_cam for now.
+
+NOTE: dep_data_file is used for more than just dry deposition. It is also used to store coefficients needed in
+wet deposition. Make sure to include GEOS-Chem gases that undergo either dry dep or wet dep in the file.
+For example, MEK is wet deposited but not dry deposited in GEOS-Chem 14.0 and therefore needs to be in
+dep_data_file eventhough the interface to it is through shr_drydep_mod.
+
+Species added for wet deposition:
+MEK
+MP
+
+I had to add OX since shr_drydep_mod maps dry deposited species O3 to OX in the deposition file. I copied the O3 parameters for OX.
